@@ -1,1 +1,1 @@
-# rsschool-cv
+https://strelec-i.github.io/rsschool-cv/cv
