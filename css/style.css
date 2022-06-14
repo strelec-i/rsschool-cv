@@ -83,6 +83,27 @@ footer {
     text-align: center;
     background-color: #ccc;
 }
+.footer__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-github{
+    display: block;
+    max-width: 100%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+.img-rsschool{
+    display: block;
+    max-width: 100%;
+    height: 50px;
+    width: 100px;
+}
+.footer__text{
+    margin-bottom: 0px;
+}
 
 @media (max-width: 575px) {
     body {
